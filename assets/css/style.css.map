@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,wEAAwE;AACxE;EACE,YAAY;EACZ,aAAa;EACb,UAAU;EACV,WAAW;EACX,gCAAgC,EAAE","file":"style.css","sourcesContent":["@import url(\"https://fonts.googleapis.com/css?family=Lato:400,700,900\");\nbody, html {\n  width: 100%;\n  height: 100%;\n  margin: 0;\n  padding: 0;\n  font-family: 'Lato', sans-serif; }\n"]}
